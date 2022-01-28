@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sobit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="center" alt="coding" width="400px" height="500px" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 <!-- - 🌱 I’m currently learning **React JS**
 
