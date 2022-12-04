@@ -1,25 +1,122 @@
-<h1 align="center">Hi 👋, I'm Sobit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="300" alt="coding" src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif">
+<img src="personal-header.jpg" width="100%">
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **react, MERN**
-
-- 📫 How to reach me **sobitp59@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sobit-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sobit-prasad" height="30" width="40" /></a>
-<a href="https://instagram.com/sobitprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sobitprasad" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sobitprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sobitprasad" height="30" width="40" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer%2C+;Technical+Writer%2C+and+a;Constant+Learner" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  </p>
+<p align="center">
+  <a href="https://twitter.com/sobit_prasad" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://sobitprasad.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>  
+  <a href="https://www.linkedin.com/in/sobit-prasad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sobitp59@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<!-- <p>&nbsp;<img align="left" width="200px" height="150px" src="https://github-readme-stats.vercel.app/api?username=sobitp59&show_icons=true&locale=en" alt="sobitp59" /><br> -->
-<!-- <img align="right" width="200px" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=sobitp59&" alt="sobitp59" /></p> -->
+## About Me
+* 👋 &nbsp;Sobit Prasad (he/him)
+* ❤️ &nbsp;I'm from Bharat (India)
+* 🧠 &nbsp;I’m currently JavaScript and React
+* 💖 &nbsp;I love watching anime, sci-fi movies, & cooking 🍪
 
-<!-- <p><img align="right" width="200px" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=sobitp59&" alt="sobitp59" /></p> -->
+See [my website](https://sobitpr.vercel.app/) for more information!
 
+## Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">BTS Memes API</h3>
+      <br/>
+      <img src="./project-gifs/bts-memes-api-demo.gif" width="100%" alt="BTS Memes API"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/bts-memes-api">Repo</a>
+          <span> | </span>
+          <a href="https://bts-memes-api.herokuapp.com/">Site</a>
+      </div>
+      <p align="center">A RESTful API that uses HTTP requests to create, delete, and read bts meme images from a MongoDB database.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">To Do List</h3>
+      <br/>
+      <img src="./project-gifs/to-do-demo.gif" width="100%" alt="To Do List"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/to-do">Repo</a>
+          <span> | </span>
+          <a href="https://leifaj.github.io/to-do/">Site</a>
+      </div>
+      <p align="center">A simple and intuitive checklist app made with React.</p>
+    </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">AI Response Generator</h3>
+      <br/>
+      <img src="./project-gifs/ai-response-generator-demo.gif" width="100%" alt="AI Response Generator"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/ai-response-generator">Repo</a>
+          <span> | </span>
+          <a href="https://ai-response-generator.herokuapp.com/">Site</a>
+      </div>
+      <p align="center">An app that sends text prompts to the OpenAI API and displays the results in a list. The AI model generates a text completion that attemps to match whatever context or pattern you give it!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br/>
+      <img src="./project-gifs/portfolio-demo.gif" width="100%" alt="Leianne Fajutagana's Portfolio"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/portfolio">Repo</a>
+          <span> | </span>
+          <a href="https://leianne.netlify.app/">Site</a>
+      </div>
+      <p align="center">My portfolio website. It includes information about me and showcases my skills & projects.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Who's That Pokémon?</h3>
+      <br/>
+      <img src="./project-gifs/poke-demo.gif" width="100%" alt="Who's That Pokémon?"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/whos-that-pokemon">Repo</a>
+          <span> | </span>
+          <a href="https://leifaj.github.io/whos-that-pokemon/">Site</a>
+      </div>
+      <p align="center">A Pokémon guessing game! Try to guess the Pokémon based off of its silhouette.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Pixel Art Editor</h3>
+      <br/>
+      <img src="./project-gifs/pixel-art-demo.gif" width="100%" alt="Pixel Art Editor"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/pixel-art">Repo</a>
+          <span> | </span>
+          <a href="leifaj.github.io/pixel-art/">Site</a>
+      </div>
+      <p align="center">A pixel art drawing tool with customizable canvas sizes and color options.</p>
+    </td>
+  </tr>
+</table>
+
+## Technologies
+![skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,r,vim,git,vscode&theme=light)
+
+## My Stats
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=leifaj&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=20222d&currStreakLabel=f46db0&fire=f46db0&stroke=white&dates=white&currStreakNum=DDDDDD&ring=f46db0&sideNums=f46db0&sideLabels=f46db0">
+<p>
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=leifaj.leifaj&left_color=hotpink&right_color=hotpink&left_text=profile%20views"/>
+<p>
