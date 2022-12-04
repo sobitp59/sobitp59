@@ -31,16 +31,16 @@ See [my website](https://sobitpr.vercel.app/) for more information!
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">BTS Memes API</h3>
+      <h3 align="center">Weatherly : A Weather App </h3>
       <br/>
-      <img src="./project-gifs/bts-memes-api-demo.gif" width="100%" alt="BTS Memes API"/>
+      <img src="weatherly.gif" width="100%" alt="weatherly app"/>
       <br/>
       <div align="center">
-          <a href="https://github.com/leifaj/bts-memes-api">Repo</a>
+          <a href="https://github.com/sobitp59/Weatherly">Repo</a>
           <span> | </span>
-          <a href="https://bts-memes-api.herokuapp.com/">Site</a>
+          <a href="https://weatherly-sobit.vercel.app/">Live</a>
       </div>
-      <p align="center">A RESTful API that uses HTTP requests to create, delete, and read bts meme images from a MongoDB database.</p>
+      <p align="center">A weather app that uses <a href="https://openweathermap.org/api" target="_blank">Open Weather API</a> to fetch data. The app shows hourly as well as five day forecast.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">To Do List</h3>
