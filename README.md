@@ -110,13 +110,14 @@ See [my website](https://sobitpr.vercel.app/) for more information!
 </table>
 
 ## Technologies
-![skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,r,vim,git,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,materialui,js,ts,react,nextjs,nodejs,py,git,vscode&theme=light)
 
 ## My Stats
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=leifaj&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=20222d&currStreakLabel=f46db0&fire=f46db0&stroke=white&dates=white&currStreakNum=DDDDDD&ring=f46db0&sideNums=f46db0&sideLabels=f46db0">
-<p>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=leifaj.leifaj&left_color=hotpink&right_color=hotpink&left_text=profile%20views"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sobitp59&theme=shades-of-purple">
 <p>
+
+<!-- <p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=sobitp59&left_color=hotpink&right_color=hotpink&left_text=profile%20views"/>
+<p> -->
