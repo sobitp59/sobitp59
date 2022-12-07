@@ -81,7 +81,7 @@ See [my website](https://sobitpr.vercel.app/) for more information!
       <p align="center">This is personal portfolio, where I have tried to showcase my projects and learnings.</p>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Who's That Pokémon?</h3>
       <br/>
@@ -106,7 +106,7 @@ See [my website](https://sobitpr.vercel.app/) for more information!
       </div>
       <p align="center">A pixel art drawing tool with customizable canvas sizes and color options.</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ## Technologies
