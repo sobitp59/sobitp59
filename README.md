@@ -71,14 +71,14 @@ See [my website](https://sobitpr.vercel.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
       <br/>
-      <img src="./project-gifs/portfolio-demo.gif" width="100%" alt="Leianne Fajutagana's Portfolio"/>
+      <img src="portfolio.gif" width="100%" alt="Sobit Prasad's Portfolio"/>
       <br/>
       <div align="center">
-          <a href="https://github.com/leifaj/portfolio">Repo</a>
+          <a href="https://github.com/sobitp59/portfolio">Repo</a>
           <span> | </span>
-          <a href="https://leianne.netlify.app/">Site</a>
+          <a href="https://sobitpr.vercel.app/">Live</a>
       </div>
-      <p align="center">My portfolio website. It includes information about me and showcases my skills & projects.</p>
+      <p align="center">This is personal portfolio, where I have tried to showcase my projects and learnings.</p>
     </td>
   </tr>
   <tr>
