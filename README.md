@@ -97,14 +97,14 @@ See [my website](https://sobitpr.vercel.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Pixel Art Editor</h3>
       <br/>
-      <img src="./project-gifs/pixel-art-demo.gif" width="100%" alt="Pixel Art Editor"/>
+      <img src="cash.gif" width="100%" alt="Cash Register"/>
       <br/>
       <div align="center">
-          <a href="https://github.com/leifaj/pixel-art">Repo</a>
+          <a href="https://github.com/sobitp59/cash-register-app-neoG-Mark10">Repo</a>
           <span> | </span>
-          <a href="leifaj.github.io/pixel-art/">Site</a>
+          <a href="https://sobit-cash-register.netlify.app/">Live</a>
       </div>
-      <p align="center">A pixel art drawing tool with customizable canvas sizes and color options.</p>
+      <p align="center">A cash register app that manages how to return in diffrent denominations.</p>
     </td>
   </tr> -->
 </table>
