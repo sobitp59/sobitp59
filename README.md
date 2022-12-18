@@ -57,16 +57,16 @@ See [my website](https://sobitpr.vercel.app/) for more information!
   </tr>
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">AI Response Generator</h3>
+      <h3 align="center">Cash Register</h3>
       <br/>
-      <img src="./project-gifs/ai-response-generator-demo.gif" width="100%" alt="AI Response Generator"/>
+      <img src="cash.gif" width="100%" alt="Cash Register"/>
       <br/>
       <div align="center">
-          <a href="https://github.com/leifaj/ai-response-generator">Repo</a>
+          <a href="https://github.com/sobitp59/cash-register-app-neoG-Mark10">Repo</a>
           <span> | </span>
-          <a href="https://ai-response-generator.herokuapp.com/">Site</a>
+          <a href="https://sobit-cash-register.netlify.app/">Live</a>
       </div>
-      <p align="center">An app that sends text prompts to the OpenAI API and displays the results in a list. The AI model generates a text completion that attemps to match whatever context or pattern you give it!</p>
+      <p align="center">A cash register app that shows how to return in differnt denominations.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
