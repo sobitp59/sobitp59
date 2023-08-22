@@ -31,16 +31,16 @@ See [my website](https://sobitpr.vercel.app/) for more information!
 <table>
   <tr> 
      <td width="50%" valign="top">
-      <h3 align="center">openspace : a social media app </h3>
+      <h3 align="center">openbook : an e-commerce web application for books </h3>
       <br/>
-      <img src="openspace-socialmedia.gif" width="100%" alt="openspace social media app"/>
+      <img src="openbook.gif" width="100%" alt="openbook e-commerce web application"/>
       <br/>
       <div align="center">
-          <a href="https://github.com/sobitp59/openspace-socialmedia">Repo</a>
+          <a href="https://github.com/sobitp59/openbook-ecommmerce">Repo</a>
           <span> | </span>
-          <a href="https://openspace-socialmedia.vercel.app/">Live</a>
+          <a href="https://openbook-ecommmerce.vercel.app/">Live</a>
       </div>
-      <p align="center">Openspace is a social media app like twitter with many functinalities like twitter.</p>
+      <p align="center">OpenBook is an e-commerce web application with razorpay payment integration.</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">openspace : a social media app </h3>
