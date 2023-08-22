@@ -1,4 +1,4 @@
-![openspace-socialmedia](https://github.com/sobitp59/sobitp59/assets/66735394/b3f75749-7acb-465d-9a1b-64ce7ad39f3f)<img src="personal-header.jpg" width="100%">
+<img src="personal-header.jpg" width="100%">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer%2C+;Technical+Writer%2C+and+a;Constant+Learner" alt="Typing SVG" /></a>
@@ -81,32 +81,6 @@ See [my website](https://sobitpr.vercel.app/) for more information!
       <p align="center">This is personal portfolio, where I have tried to showcase my projects and learnings.</p>
     </td>
   </tr>
-<!--   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Who's That Pokémon?</h3>
-      <br/>
-      <img src="./project-gifs/poke-demo.gif" width="100%" alt="Who's That Pokémon?"/>
-      <br/>
-      <div align="center">
-          <a href="https://github.com/leifaj/whos-that-pokemon">Repo</a>
-          <span> | </span>
-          <a href="https://leifaj.github.io/whos-that-pokemon/">Site</a>
-      </div>
-      <p align="center">A Pokémon guessing game! Try to guess the Pokémon based off of its silhouette.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Pixel Art Editor</h3>
-      <br/>
-      <img src="cash.gif" width="100%" alt="Cash Register"/>
-      <br/>
-      <div align="center">
-          <a href="https://github.com/sobitp59/cash-register-app-neoG-Mark10">Repo</a>
-          <span> | </span>
-          <a href="https://sobit-cash-register.netlify.app/">Live</a>
-      </div>
-      <p align="center">A cash register app that manages how to return in diffrent denominations.</p>
-    </td>
-  </tr> -->
 </table>
 
 ## Technologies
