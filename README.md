@@ -54,6 +54,8 @@ See [my website](https://sobitpr.vercel.app/) for more information!
       </div>
       <p align="center">Openspace is a social media app like twitter with many functinalities like twitter.</p>
     </td>
+    </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Weatherly : A Weather App </h3>
       <br/>
@@ -65,18 +67,6 @@ See [my website](https://sobitpr.vercel.app/) for more information!
           <a href="https://weatherly-sobit.vercel.app/">Live</a>
       </div>
       <p align="center">A weather app that uses <a href="https://openweathermap.org/api" target="_blank">Open Weather API</a> to fetch data. The app shows hourly as well as five day forecast.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Password Generator</h3>
-      <br/>
-      <img src="password.gif" width="100%" alt="Password Generator"/>
-      <br/>
-      <div align="center">
-          <a href="https://github.com/sobitp59/Scrimba-FDCP/tree/main/Module%204/m3-password-generator">Repo</a>
-          <span> | </span>
-          <a href="https://pass-gen-sobit.netlify.app/">Live</a>
-      </div>
-      <p align="center">A simple password generator app that generate password according to you.</p>
     </td>
   </tr>
   <tr>
