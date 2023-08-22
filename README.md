@@ -1,4 +1,4 @@
-<img src="personal-header.jpg" width="100%">
+![openspace-socialmedia](https://github.com/sobitp59/sobitp59/assets/66735394/b3f75749-7acb-465d-9a1b-64ce7ad39f3f)<img src="personal-header.jpg" width="100%">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer%2C+;Technical+Writer%2C+and+a;Constant+Learner" alt="Typing SVG" /></a>
@@ -33,7 +33,7 @@ See [my website](https://sobitpr.vercel.app/) for more information!
      <td width="50%" valign="top">
       <h3 align="center">openspace : a social media app </h3>
       <br/>
-      <img src="weatherly.gif" width="100%" alt="weatherly app"/>
+      <img src="openspace-socialmedia.gif" width="100%" alt="openspace social media app"/>
       <br/>
       <div align="center">
           <a href="https://github.com/sobitp59/openspace-socialmedia">Repo</a>
@@ -68,18 +68,6 @@ See [my website](https://sobitpr.vercel.app/) for more information!
     </td>
   </tr>
   <tr>
-  <td width="50%" valign="top">
-      <h3 align="center">Cash Register</h3>
-      <br/>
-      <img src="cash.gif" width="100%" alt="Cash Register"/>
-      <br/>
-      <div align="center">
-          <a href="https://github.com/sobitp59/cash-register-app-neoG-Mark10">Repo</a>
-          <span> | </span>
-          <a href="https://sobit-cash-register.netlify.app/">Live</a>
-      </div>
-      <p align="center">A cash register app that shows how to return in differnt denominations.</p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
       <br/>
