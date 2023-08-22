@@ -31,7 +31,7 @@ See [my website](https://sobitpr.vercel.app/) for more information!
 <table>
   <tr> 
      <td width="50%" valign="top">
-      <h3 align="center">openbook : an e-commerce web application for books </h3>
+      <h3 align="center">openbook : an e-commerce application</h3>
       <br/>
       <img src="openbook.gif" width="100%" alt="openbook e-commerce web application"/>
       <br/>
