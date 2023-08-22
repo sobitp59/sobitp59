@@ -29,7 +29,7 @@ See [my website](https://sobitpr.vercel.app/) for more information!
 
 ## Projects
 <table>
-  <tr>
+  <tr> 
      <td width="50%" valign="top">
       <h3 align="center">openspace : a social media app </h3>
       <br/>
