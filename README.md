@@ -42,6 +42,18 @@ See [my website](https://sobitpr.vercel.app/) for more information!
       </div>
       <p align="center">Openspace is a social media app like twitter with many functinalities like twitter.</p>
     </td>
+     <td width="50%" valign="top">
+      <h3 align="center">openspace : a social media app </h3>
+      <br/>
+      <img src="openspace-socialmedia.gif" width="100%" alt="openspace social media app"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/sobitp59/openspace-socialmedia">Repo</a>
+          <span> | </span>
+          <a href="https://openspace-socialmedia.vercel.app/">Live</a>
+      </div>
+      <p align="center">Openspace is a social media app like twitter with many functinalities like twitter.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Weatherly : A Weather App </h3>
       <br/>
