@@ -68,20 +68,17 @@ See [my website](https://sobitpr.vercel.app/) for more information!
       </div>
       <p align="center">A weather app that uses <a href="https://openweathermap.org/api" target="_blank">Open Weather API</a> to fetch data. The app shows hourly as well as five day forecast.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">Weatherly : A Weather App </h3>
       <br/>
-      <img src="portfolio.gif" width="100%" alt="Sobit Prasad's Portfolio"/>
+      <img src="weatherly.gif" width="100%" alt="weatherly app"/>
       <br/>
       <div align="center">
-          <a href="https://github.com/sobitp59/portfolio">Repo</a>
+          <a href="https://github.com/sobitp59/Weatherly">Repo</a>
           <span> | </span>
-          <a href="https://sobitpr.vercel.app/">Live</a>
+          <a href="https://weatherly-sobit.vercel.app/">Live</a>
       </div>
-      <p align="center">This is personal portfolio, where I have tried to showcase my projects and learnings.</p>
-    </td>
+      <p align="center">A weather app that uses <a href="https://openweathermap.org/api" target="_blank">Open Weather API</a> to fetch data. The a
   </tr>
 </table>
 
